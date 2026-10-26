@@ -1,0 +1,8 @@
+[
+ {"order_id":"A100","customer_id":"c1","sku":"HDPH-1","category":"electronics","price":89.0,"purchase_date":"2026-10-01","request_date":"2026-10-08","reason_text":"Left earbud stopped working after a week","condition":"opened"},
+ {"order_id":"A101","customer_id":"c2","sku":"TSHIRT-9","category":"apparel","price":25.0,"purchase_date":"2026-09-20","request_date":"2026-10-05","reason_text":"Too small, doesn't fit","condition":"unopened"},
+ {"order_id":"A102","customer_id":"c3","sku":"LAP-77","category":"electronics","price":1499.0,"purchase_date":"2026-10-10","request_date":"2026-10-12","reason_text":"Changed my mind","condition":"opened","has_receipt":false,"returns_last_90d":6},
+ {"order_id":"A103","customer_id":"c4","sku":"SOAP-2","category":"final_sale","price":12.0,"purchase_date":"2026-10-01","request_date":"2026-10-03","reason_text":"Don't like the smell"},
+ {"order_id":"A104","customer_id":"c5","sku":"BOOK-3","category":"home","price":40.0,"purchase_date":"2026-07-01","request_date":"2026-10-01","reason_text":"Too late probably","condition":"unopened"},
+ {"order_id":"A105","customer_id":"c6","sku":"MUG-4","category":"home","price":18.0,"purchase_date":"2026-10-01","request_date":"2026-10-04","reason_text":"Received a different color, wrong item","condition":"unopened"}
+]

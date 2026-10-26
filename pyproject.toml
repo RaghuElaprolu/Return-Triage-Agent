@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "returns-triage-agent"
+version = "0.1.0"
+description = "Decides auto-refund / auto-exchange / human review / reject for return requests, with an explanation for every decision."
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+llm = ["anthropic"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
